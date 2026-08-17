@@ -1,0 +1,35 @@
+# Dependências
+node_modules/
+
+# Expo
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# Builds nativos (caso rode `expo prebuild`)
+mobile/android/
+mobile/ios/
+
+# TypeScript
+*.tsbuildinfo
+
+# Variáveis de ambiente e segredos
+.env
+.env.*
+!.env.example
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# Instruções do Claude Code (contexto local, não versionado)
+CLAUDE.md
+
+# Editor / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

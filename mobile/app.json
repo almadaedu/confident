@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "Diário Pessoal",
+    "slug": "diario-pessoal",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "package": "com.eduardo.diariopessoal"
+    }
+  }
+}
