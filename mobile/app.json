@@ -9,7 +9,11 @@
       "supportsTablet": false
     },
     "android": {
-      "package": "com.confident.diariopessoal"
-    }
+      "package": "com.confident.diariopessoal",
+      "softwareKeyboardLayoutMode": "resize"
+    },
+    "plugins": [
+      "expo-font"
+    ]
   }
 }
